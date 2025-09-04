@@ -1,7 +1,7 @@
 #змінні
 age = 6
 print('age',type(age),'=', age)
-name= 'Myroslav'
+name= 'Nazar'
 print('name',type(name),'=', name)
 bal = 4.0
 print('bal',type(bal),'=', bal)
